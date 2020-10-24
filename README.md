@@ -1,5 +1,9 @@
 There is only a brush tool RN, currently adding paint bucket.
 
+The keyboard shortcuts never crash but the GUI sometimes crashes?????
+
+When saving, make SURE to put the .png extension or bad things happen.
+
 Keyboard shortcuts:
 <table>
 <tr><th>Short</th><th>Desc</th></tr>
